@@ -1,6 +1,6 @@
 /*P1.c*/
 /*Nome: Priscila Alves Nunes*/
-/*Matrícula: 11811EBI010*/
+/*MatrÃ­cula: 11811EBI010*/
 
 #include <stdio.h>
 
@@ -9,7 +9,7 @@ int main ()
 	int estado = 0, i = 0;
 	char bits[256];
 	printf("Digite um numero binario: ");
-	scanf("%s", &bits);
+	scanf("%s", bits);
 	while(bits[i] != '\0')
 	{
 		if(bits[i] == '0')
