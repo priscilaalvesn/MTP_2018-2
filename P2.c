@@ -1,3 +1,6 @@
+/*P2.c*/
+/*Nome: Priscila Alves Nunes*/
+/*Matrícula: 11811EBI010*/
 #include <stdio.h>
 
 int main()
