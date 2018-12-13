@@ -1,5 +1,5 @@
 /* P7.c */
-/* Priscila_Alves */
+/* Priscila Alves Nunes */
 /* 11811EBI010 */
 
 #include <stdio.h>
